@@ -1,8 +1,6 @@
 # JD
 
-공사중... 내용을 뭐로 채울까?? 🤔🤔🤔  
-
-iOS Developer by day, Guitarist by night. 🎸  
+Developer by day, Guitarist by night. 🎸  
 Exploring the world of DSP and Audio Engineering to build the ultimate guitar effect plugins.  
 Forget about me, the guitars are the real stars here.
 
@@ -15,8 +13,8 @@ Forget about me, the guitars are the real stars here.
       <img src="./images/main.jpeg" width="100%" alt="Rona">
     </td>
     <td align="center">
-      <b>PingPing</b><br>
-      <img src="./images/pingping.jpeg" width="100%" alt="PingPing">
+      <b>Sold...</b><br>
+      <!-- <img src="./images/pingping.jpeg" width="100%" alt="PingPing"> -->
     </td>
   </tr>
   <tr>
